@@ -1,4 +1,4 @@
-# Superstore Sales Analytics Dashboard
+# Superstore Sales  Dashboard
 
 ## Project Overview
 A comprehensive Power BI dashboard analyzing Superstore sales performance across multiple dimensions including profitability, regional performance, and product category analysis.
