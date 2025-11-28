@@ -3,7 +3,7 @@
 ## Project Overview
 A comprehensive Power BI dashboard analyzing Superstore sales performance across multiple dimensions including profitability, regional performance, and product category analysis.
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### **Key Performance Indicators (KPIs)**
 - **$2.33M** Total Sales
@@ -23,7 +23,7 @@ A comprehensive Power BI dashboard analyzing Superstore sales performance across
 - Regional performance comparisons
 - Customer segment performance tracking
 
-## 🔍 Key Business Insights
+## Key Business Insights
 
 ### **Profit Analysis**
 - Clear visibility into most/least profitable product categories
@@ -39,13 +39,13 @@ A comprehensive Power BI dashboard analyzing Superstore sales performance across
 - Segment distribution: Consumer (50.32%), Corporate (30.77%), Home Office (18.92%)
 - Buying pattern analysis across customer types
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 - **Tool**: Power BI
 - **Data Source**: [Superstore Dataset](https://github.com/Ibrahim-Khawer/superstore-sales-dashboard/blob/main/Sample%20-%20Superstore.xlsx)
 - **Dashboard**: [View Interactive Dashboard](https://github.com/Ibrahim-Khawer/superstore-sales-dashboard/blob/main/superstore%20sales%20dashboard.pdf)
 - **Features**: Interactive filters, drill-down capabilities, YoY comparisons
 
-## 📈 Business Impact
+## Business Impact
 - Identified most profitable product categories for inventory optimization
 - Revealed regional performance variations for targeted marketing
 - Provided customer segment insights for personalized strategies
